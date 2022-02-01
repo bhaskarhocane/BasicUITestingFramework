@@ -16,7 +16,7 @@ General functionality
 ## Deliverables
 To start, please access the following web page https://qa-task.backbasecloud.com/. To access the application you can use username: candidatex and password: qa-is-cool.
 Based on the previously mentioned general functionality, the following is required:
-1. Create a series of manual test cases that cover one functionality of your choice. Make sure that you give detailed instructions for each test case (step preconditions, steps to execute test case, expected results, etc). You can use any format you prefer.
+1. Create a series of manual test cases that cover one general functionality from the above list. Make sure that you give detailed instructions for each test case (step preconditions, steps to execute test case, expected results, etc). You can use any format you prefer.
 2. UI Automate at-least 5 (the more, the better) of the previously created test cases, preferably using a JavaScript/TypeScript framework.
 Write documentation on how to run tests with the chosen tool.
 3. Provide a test report for executed test cases (manual and automated)
